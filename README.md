@@ -8,8 +8,12 @@ A bash script to analyze basic server performance statistics including CPU, memo
 - Disk usage statistics
 - Top processes by CPU and memory usage
 
+## Project URL
+https://github.com/ibtehal2122/server_state_script
+
 ## Usage
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
 
+## 
