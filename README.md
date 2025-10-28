@@ -9,7 +9,7 @@ A bash script to analyze basic server performance statistics including CPU, memo
 - Top processes by CPU and memory usage
 
 ## Project URL
-https://github.com/ibtehal2122/server_state_script
+https://roadmap.sh/projects/server-stats
 
 ## Usage
 ```bash
