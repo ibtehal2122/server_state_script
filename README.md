@@ -6,8 +6,8 @@ A bash script to analyze basic server performance statistics including CPU, memo
 - CPU usage monitoring
 - Memory usage analysis
 - Disk usage statistics
-- Top processes by CPU and memory usage
-
+- Top processes by CPU 
+- Top processes by Memory
 ## Project URL
 https://roadmap.sh/projects/server-stats
 
@@ -16,4 +16,3 @@ https://roadmap.sh/projects/server-stats
 chmod +x server-stats.sh
 ./server-stats.sh
 
-## 
